@@ -1,0 +1,18 @@
+Germany|Berlin|German|83000000|357588.0|Euro|Federal Republic|Frank-Walter Steinmeier|Europe
+France|Paris|French|67000000|643801.0|Euro|Republic|Emmanuel Macron|Europe
+Poland|Warsaw|Polish|38000000|312696.0|Zloty|Republic|Andrzej Duda|Europe
+Spain|Madrid|Spanish|47000000|505990.0|Euro|Constitutional Monarchy|Felipe VI|Europe
+Italy|Rome|Italian|60000000|301340.0|Euro|Republic|Sergio Mattarella|Europe
+Netherlands|Amsterdam|Dutch|17000000|41543.0|Euro|Constitutional Monarchy|Willem-Alexander|Europe
+Belgium|Brussels|Dutch|11000000|30528.0|Euro|Constitutional Monarchy|Philippe|Europe
+Czech Republic|Prague|Czech|10700000|78871.0|Czech Koruna|Republic|Petr Pavel|Europe
+Sweden|Stockholm|Swedish|10400000|450295.0|Swedish Krona|Constitutional Monarchy|Carl XVI Gustaf|Europe
+Switzerland|Bern|German|8700000|41285.0|Swiss Franc|Federal Republic|Alain Berset|Europe
+Austria|Vienna|German|9000000|83879.0|Euro|Federal Republic|Alexander Van der Bellen|Europe
+Belarus|Minsk|Belarusian|9400000|207600.0|Belarusian Ruble|Republic|Alexander Lukashenko|Europe
+Lithuania|Vilnius|Lithuanian|2800000|65300.0|Euro|Republic|Gitanas Nauseda|Europe
+Latvia|Riga|Latvian|1900000|64589.0|Euro|Republic|Edgars Rinkevics|Europe
+China|Beijing|Chinese|1400000000|9596961.0|Yuan|Republic|Xi Jinping|Asia
+Japan|Tokyo|Japanese|125000000|377975.0|Yen|Constitutional Monarchy|Naruhito|Asia
+Brazil|Brasilia|Portuguese|213000000|8515767.0|Real|Federal Republic|Lula da Silva|South America
+USA|Washington|English|331000000|9833520.0|Dollar|Federal Republic|Joe Biden|North America
