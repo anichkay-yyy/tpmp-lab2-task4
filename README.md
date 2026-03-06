@@ -1,36 +1,36 @@
-# Task 4 - State Data with File I/O
+# Задание 4 — Государства (файловый ввод/вывод)
 
-## Overview
+## Обзор
 
-Console application for processing country/state data using text files.
-Reads state data, filters European states with population > 8 million,
-saves results to output file. Variant 37.
+Консольное приложение для обработки данных о государствах с использованием текстовых файлов.
+Чтение данных, фильтрация европейских государств с населением > 8 млн,
+сохранение результатов в выходной файл. Вариант 37.
 
-## Author
+## Автор
 
 anichkay
 
-## Usage
+## Использование
 
 ```bash
 make
 ./bin/states
 ```
 
-The program will:
-1. Read state data from `data/states.txt` (or input from keyboard)
-2. Display all states
-3. Filter European states with population > 8 million
-4. Save filtered results to `data/result.txt`
+Программа выполняет:
+1. Чтение данных о государствах из `data/states.txt` (или ввод с клавиатуры)
+2. Вывод всех государств на экран
+3. Фильтрацию европейских государств с населением > 8 млн
+4. Сохранение результатов в `data/result.txt`
 
-### Data format
+### Формат данных
 
-Pipe-delimited text file (`|` separator):
+Текстовый файл с разделителем `|`:
 ```
-Country|Capital|Language|Population|Area|Currency|Government|Head|Continent
+Название|Столица|Язык|Население|Площадь|Валюта|Строй|Глава|Часть света
 ```
 
-## Additional Notes
+## Дополнительные замечания
 
-- Project follows CIS (Client-Interface-Server) model
-- Built with `make`, CI via GitHub Actions
+- Проект построен по модели КИС (Клиент-Интерфейс-Сервер)
+- Сборка через `make`, CI через GitHub Actions
